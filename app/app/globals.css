@@ -1,0 +1,3 @@
+@font-face{font-family:Poppins;src:url(/fonts/poppins-400-regular.ttf)}@font-face{font-family:Poppins;src:url(/fonts/poppins-500-medium.ttf);font-weight:500}@font-face{font-family:Poppins;src:url(/fonts/poppins-600-semibold.ttf);font-weight:600}@font-face{font-family:Poppins;src:url(/fonts/poppins-700-bold.ttf);font-weight:700}
+:root{--ink:#17212b;--muted:#65788d;--line:#d8e5e2;--wash:#f3f8f6;--teal:#087f75;--green:#35d67c}*{box-sizing:border-box}body{margin:0;background:var(--wash);color:var(--ink);font-family:Poppins,Arial,sans-serif}button,input,select{font:inherit}button{cursor:pointer}
+

@@ -1,0 +1,2 @@
+import { NextResponse } from "next/server";
+export async function POST(req:Request){const {pin,role}=await req.json();if(pin!=="0000"||!['admin','announcer'].includes(role))return NextResponse.json({error:"Invalid PIN"},{status:401});const expires=Date.now()+86400000;const res=NextResponse.json({role,expires});res.cookies.set("conso_role",`${role}:${expires}`,{httpOnly:true,sameSite:"strict",secure:process.env.NODE_ENV==="production",path:"/",maxAge:86400});return res}

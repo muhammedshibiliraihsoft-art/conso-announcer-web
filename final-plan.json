@@ -1,0 +1,376 @@
+{
+  "tenant_id": "45a0c1a0-bda0-4806-8477-f3fd3d6dfbbe",
+  "festival_id": "52f64db0-d58b-4237-b17c-f8b0b68f9597",
+  "as_of": "2026-11-27 07:08:55 IST",
+  "strategy": "First five fixed by prior user-approved opening order; next 15 optimized locally with batch spread targets.",
+  "batches": [
+    {
+      "through": 5,
+      "spread": 5,
+      "teams": [
+        {
+          "id": "4b506a1d-f2b3-47ab-b222-3d82f2bf977c",
+          "name": "EL CLARIX",
+          "points": 27
+        },
+        {
+          "id": "bb4041d3-5109-4265-98ab-f4fcba6311bc",
+          "name": "DER ZENIX",
+          "points": 26
+        },
+        {
+          "id": "27eccfb0-2e81-4970-b88e-cbfce04477fd",
+          "name": "AL COGNIX",
+          "points": 22
+        },
+        {
+          "id": "ac455474-a3fa-4c36-8386-b1deef54a979",
+          "name": "LA COSMIX",
+          "points": 22
+        },
+        {
+          "id": "85507d5c-9cda-4a5e-8090-bc96a382af2d",
+          "name": "LO GLIFIX",
+          "points": 22
+        }
+      ]
+    },
+    {
+      "through": 10,
+      "spread": 10,
+      "teams": [
+        {
+          "id": "85507d5c-9cda-4a5e-8090-bc96a382af2d",
+          "name": "LO GLIFIX",
+          "points": 62
+        },
+        {
+          "id": "bb4041d3-5109-4265-98ab-f4fcba6311bc",
+          "name": "DER ZENIX",
+          "points": 60
+        },
+        {
+          "id": "27eccfb0-2e81-4970-b88e-cbfce04477fd",
+          "name": "AL COGNIX",
+          "points": 57
+        },
+        {
+          "id": "4b506a1d-f2b3-47ab-b222-3d82f2bf977c",
+          "name": "EL CLARIX",
+          "points": 53
+        },
+        {
+          "id": "ac455474-a3fa-4c36-8386-b1deef54a979",
+          "name": "LA COSMIX",
+          "points": 52
+        }
+      ]
+    },
+    {
+      "through": 15,
+      "spread": 15,
+      "teams": [
+        {
+          "id": "85507d5c-9cda-4a5e-8090-bc96a382af2d",
+          "name": "LO GLIFIX",
+          "points": 83
+        },
+        {
+          "id": "27eccfb0-2e81-4970-b88e-cbfce04477fd",
+          "name": "AL COGNIX",
+          "points": 80
+        },
+        {
+          "id": "bb4041d3-5109-4265-98ab-f4fcba6311bc",
+          "name": "DER ZENIX",
+          "points": 75
+        },
+        {
+          "id": "4b506a1d-f2b3-47ab-b222-3d82f2bf977c",
+          "name": "EL CLARIX",
+          "points": 70
+        },
+        {
+          "id": "ac455474-a3fa-4c36-8386-b1deef54a979",
+          "name": "LA COSMIX",
+          "points": 68
+        }
+      ]
+    },
+    {
+      "through": 20,
+      "spread": 15,
+      "teams": [
+        {
+          "id": "85507d5c-9cda-4a5e-8090-bc96a382af2d",
+          "name": "LO GLIFIX",
+          "points": 102
+        },
+        {
+          "id": "27eccfb0-2e81-4970-b88e-cbfce04477fd",
+          "name": "AL COGNIX",
+          "points": 98
+        },
+        {
+          "id": "4b506a1d-f2b3-47ab-b222-3d82f2bf977c",
+          "name": "EL CLARIX",
+          "points": 95
+        },
+        {
+          "id": "bb4041d3-5109-4265-98ab-f4fcba6311bc",
+          "name": "DER ZENIX",
+          "points": 91
+        },
+        {
+          "id": "ac455474-a3fa-4c36-8386-b1deef54a979",
+          "name": "LA COSMIX",
+          "points": 87
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "position": 1,
+      "id": "a756f51e-2489-438e-b88e-47ba6f6662de",
+      "code": "SPARK-C2EC49E3E",
+      "name": "Translation ARA-MAL",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "spark"
+      ],
+      "result_rows": 44
+    },
+    {
+      "position": 2,
+      "id": "129171a7-422b-4d8e-9c39-312c57e7c61c",
+      "code": "SPARK-C9BCBE365",
+      "name": "Kifayathul Awam Test",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "spark"
+      ],
+      "result_rows": 10
+    },
+    {
+      "position": 3,
+      "id": "d063d16b-06a7-43dc-a8fc-5022f8302910",
+      "code": "GENERAL-C01FC3195",
+      "name": "Tajweed Test (GN-SPARK, NOVA)",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "general"
+      ],
+      "result_rows": 10
+    },
+    {
+      "position": 4,
+      "id": "678722ce-e9e2-459a-a827-fdaef1799c22",
+      "code": "GENERAL-C613183A6",
+      "name": "Ikhtibarullugha",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "general"
+      ],
+      "result_rows": 25
+    },
+    {
+      "position": 5,
+      "id": "5f69bef3-b963-42c1-b4b9-321df4d8bdb9",
+      "code": "PRIME-C5C5F9580",
+      "name": "Kavitha Rachana ENG",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "prime"
+      ],
+      "result_rows": 25
+    },
+    {
+      "position": 6,
+      "id": "5f005a9a-68ff-400b-839d-8ffb6c673565",
+      "code": "ZENITH-C54039CC1",
+      "name": "Prabandha Rachana ENG",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "zenith"
+      ],
+      "result_rows": 34
+    },
+    {
+      "position": 7,
+      "id": "51a45d88-46af-4041-9d88-4bf41c9a49a4",
+      "code": "SPARK-C0CB2B502",
+      "name": "Hadees Contest",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "spark"
+      ],
+      "result_rows": 15
+    },
+    {
+      "position": 8,
+      "id": "3ebaa44f-9ad6-44ae-887c-72a132b5c55c",
+      "code": "GENERAL-CB8D28D3B",
+      "name": "Muhyudheen Mala Padanam",
+      "participation_type": "group",
+      "item_type": "offstage",
+      "category_codes": [
+        "general"
+      ],
+      "result_rows": 5
+    },
+    {
+      "position": 9,
+      "id": "32f8cfba-6cbf-4220-94d7-9d67821bbb93",
+      "code": "NOVA-C459692BA",
+      "name": "Kavitha Rachana ARA",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "nova"
+      ],
+      "result_rows": 24
+    },
+    {
+      "position": 10,
+      "id": "3f62d08b-a094-4aa6-9f08-8ca0c2c8b79f",
+      "code": "PRIME-C6260DFFD",
+      "name": "Translation URD-MAL",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "prime"
+      ],
+      "result_rows": 38
+    },
+    {
+      "position": 11,
+      "id": "f5fd3411-90c7-4f1c-ae83-f5a63697c973",
+      "code": "PRIME-CE6AB812D",
+      "name": "Katha Rachana URDU",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "prime"
+      ],
+      "result_rows": 24
+    },
+    {
+      "position": 12,
+      "id": "bb0bae7c-7581-4193-b360-fd52b7a85f7c",
+      "code": "SPARK-C0C922C38",
+      "name": "Translation ENG-MAL",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "spark"
+      ],
+      "result_rows": 44
+    },
+    {
+      "position": 13,
+      "id": "b068d2b8-8e7f-43a2-90b1-f9607f8e4de6",
+      "code": "PRIME-CCF055F25",
+      "name": "Prabandha Rachana MAL",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "prime"
+      ],
+      "result_rows": 77
+    },
+    {
+      "position": 14,
+      "id": "e5d93100-c67b-4b0b-a771-b863d5e1db96",
+      "code": "GENERAL-CC95A8DE7",
+      "name": "Mudravakya Rachana (Gen-Spark, Nova)",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "general"
+      ],
+      "result_rows": 19
+    },
+    {
+      "position": 15,
+      "id": "556eb1a4-8ffd-4715-9c40-565f6a3f06f4",
+      "code": "NOVA-CB319AC81",
+      "name": "Qaseeda Parayanam",
+      "participation_type": "group",
+      "item_type": "stage",
+      "category_codes": [
+        "nova"
+      ],
+      "result_rows": 5
+    },
+    {
+      "position": 16,
+      "id": "0ba91807-3438-4691-a7c8-4bc0d3a4db37",
+      "code": "SPARK-C07CC41C8",
+      "name": "Prathikaranamezhuth",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "spark"
+      ],
+      "result_rows": 45
+    },
+    {
+      "position": 17,
+      "id": "95839a75-5bcb-4ff2-81b2-0e9d992c0206",
+      "code": "PRIME-C0C4066AA",
+      "name": "Kavitha Rachana ARA",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "prime"
+      ],
+      "result_rows": 25
+    },
+    {
+      "position": 18,
+      "id": "ab46b048-1bbb-489b-9e20-8b01b827ad3f",
+      "code": "NOVA-CDBB28AEA",
+      "name": "Kavitha Rachana URDU",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "nova"
+      ],
+      "result_rows": 25
+    },
+    {
+      "position": 19,
+      "id": "d1519918-2661-42d4-88f3-56173b5211cd",
+      "code": "GENERAL-C90607618",
+      "name": "Viplava Gana Rachana",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "general"
+      ],
+      "result_rows": 24
+    },
+    {
+      "position": 20,
+      "id": "f613a513-772d-4991-bccd-887ac67bae40",
+      "code": "ZENITH-CB82F4AED",
+      "name": "Prabandha Rachana URDU",
+      "participation_type": "individual",
+      "item_type": "offstage",
+      "category_codes": [
+        "zenith"
+      ],
+      "result_rows": 34
+    }
+  ],
+  "tenant": "Main Campus",
+  "festival": "CONSOULIUM 2K26"
+}
