@@ -3,3 +3,11 @@ app/node_modules/
 app/.next/
 app/runtime-data/
 *.log
+app/AGENTS.md
+app/README.md
+app/public/file.svg
+app/public/globe.svg
+app/public/next.svg
+app/public/vercel.svg
+app/public/window.svg
+app/.gitignore
